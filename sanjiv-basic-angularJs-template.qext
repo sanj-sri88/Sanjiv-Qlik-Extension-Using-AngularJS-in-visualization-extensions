@@ -1,0 +1,9 @@
+{
+    "name" : "Sanjiv Created AngularJS Extension Basic",
+    "description" : "Angular JS use in Qlik Sense Extension",
+    "icon" : "filterpane",
+	"preview" : "agmatechBasicExtension.png",
+    "type" : "visualization",
+    "version": "0.1.0",
+    "author": "AgamaTech"
+}
